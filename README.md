@@ -2,7 +2,7 @@
 
 # asdf-ksops [![Build](https://github.com/janpieper/asdf-ksops/actions/workflows/build.yml/badge.svg)](https://github.com/janpieper/asdf-ksops/actions/workflows/build.yml) [![Lint](https://github.com/janpieper/asdf-ksops/actions/workflows/lint.yml/badge.svg)](https://github.com/janpieper/asdf-ksops/actions/workflows/lint.yml)
 
-[ksops](https://github.com/janpieper/asdf-ksops) plugin for the [asdf version manager](https://asdf-vm.com).
+[ksops](https://github.com/viaduct-ai/kustomize-sops) plugin for the [asdf version manager](https://asdf-vm.com).
 
 </div>
 
